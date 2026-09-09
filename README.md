@@ -55,6 +55,32 @@ Statewide storm-event frequency was therefore used as an exploratory measure of 
 
 Both datasets were aggregated to the monthly level so crime and storm activity could be compared using a common unit of analysis.
 
+## Visual Analysis
+
+### Monthly Property Crime Activity
+
+Property crime remained relatively stable across 2024, although some monthly variation was present.
+
+![Property Crimes by Month](images/property_crimes_by_month.png)
+
+### Monthly Florida Storm Activity
+
+Storm-event frequency varied much more substantially across the year, with several months showing pronounced increases in activity.
+
+![Florida Storm Events by Month](images/florida_storm_events_by_month.png)
+
+### Monthly Crime and Storm Comparison
+
+The monthly comparison was used to visually examine whether increases in Florida storm activity appeared to coincide with changes in Miami property crime.
+
+![Monthly Crime and Storm Comparison](images/monthly_crime_storm_comparison.png)
+
+### Correlation Analysis
+
+A scatterplot was used to evaluate the relationship between monthly Florida storm-event frequency and Miami property crime. The upward trend suggests a moderate positive relationship, but the Pearson correlation result (**r = 0.47, p = 0.12**) was not statistically significant at the 0.05 level.
+
+![Storm Crime Correlation Scatterplot](images/storm_crime_correlation_scatterplot.png)
+
 ## Key Findings
 
 - Monthly property crime remained relatively stable throughout 2024 compared with the greater variability observed in monthly storm-event frequency.
