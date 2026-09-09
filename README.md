@@ -115,7 +115,7 @@ Future work could:
 
 ## Project Files
 
-- [Python Analysis Notebook](notebooks/)
+- [Python Analysis Notebook](notebooks/storm_crime_analysis.ipynb)
 - [Project Visualizations](images/)
 - [Analytical Report](report/)
 - [Data Availability](data/)
