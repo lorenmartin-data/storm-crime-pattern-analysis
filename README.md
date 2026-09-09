@@ -117,7 +117,7 @@ Future work could:
 
 - [Python Analysis Notebook](notebooks/storm_crime_analysis.ipynb)
 - [Project Visualizations](images/)
-- [Analytical Report](report/)
+- [Analytical Report](report/storm_crime_analysis_report.pdf)
 - [Data Availability](data/)
 
 ## Data Note
