@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project explores monthly property crime activity in Miami alongside statewide Florida storm-event frequency during calendar year 2024. The analysis emphasizes the end-to-end analytical process, including data extraction, cleaning, filtering, classification decisions, aggregation, exploratory visualization, statistical testing, and interpretation.
+This project explores monthly property crime activity in Miami alongside statewide Florida storm-event frequency during calendar year 2024. The analysis emphasizes the end-to-end analytical process, including data extraction, cleaning, filtering, classification decisions, aggregation, exploratory visualization, statistical analysis, and interpretation.
 
 The goal was to determine whether periods of increased storm activity appeared to coincide with changes in property crime and whether the observed relationship was statistically meaningful.
 
